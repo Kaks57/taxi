@@ -25,8 +25,9 @@ export const About = () => {
               {[
                 "Service 24/7", 
                 "Chauffeurs expérimentés", 
-                "Véhicule 7 places avec remorque", 
-                "Véhicule électrique disponible"
+                "Remorque disponible", 
+                "Crochet d'attelage",
+                "Porte vélos si nécessaire ",
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-2">
                   <CheckCircle className="h-5 w-5 text-yellow-500" />

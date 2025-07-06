@@ -3,11 +3,7 @@ import { Car, Clock, Users, ShieldCheck, CreditCard, MapPin } from "lucide-react
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "./ui/card";
 
 const services = [
-  {
-    icon: Car,
-    title: "Transport local",
-    description: "Transport dans Saint-Quentin et ses environs avec des véhicules confortables et écologiques."
-  },
+ 
   {
     icon: Clock,
     title: "Disponible 24/7",
@@ -31,7 +27,7 @@ const services = [
   {
     icon: CreditCard,
     title: "Paiement flexible",
-    description: "Accepte les paiements en espèces, par carte bancaire et en ligne."
+    description: "Accepte les paiements en espèces, en ligne pour professionel."
   },
 ];
 

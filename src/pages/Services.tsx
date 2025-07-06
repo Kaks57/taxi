@@ -32,8 +32,8 @@ const ServicesPage = () => {
       color: "bg-yellow-400"
     },
     {
-      title: "Disponibilité 24/7",
-      description: "Notre service est disponible 24h/24 et 7j/7. Que ce soit pour un trajet planifié ou une urgence de dernière minute, nous sommes là pour vous.",
+      title: "Disponibilité fléxible",
+      description: "Notre serviceest fléxible que ce soit pour un trajet planifié ou une urgence de dernière minute, nous sommes là pour vous.",
       icon: Clock,
       color: "bg-yellow-400"
     },
