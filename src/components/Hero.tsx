@@ -52,7 +52,7 @@ export const Hero = () => {
             <div className="mt-8 flex items-center gap-2 text-sm text-gray-300">
               <MapPin size={16} className="text-yellow-400" />
               <address className="not-italic">
-                45 rue Saverne, 02100 Saint-Quentin
+                160 rue Georges Pompidou, 02100 Saint-Quentin
               </address>
             </div>
           </div>
