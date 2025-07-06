@@ -6,7 +6,7 @@ export const Hero = () => {
   return (
     <section 
       id="accueil" 
-      className="relative overflow-hidden bg-gradient-to-br from-black to-gray-900 text-white py-20 md:py-32"
+      className="relative overflow-hidden bg-gradient-to-br from-darkblue to-gray-900 text-white py-20 md:py-32"
     >
       {/* Background gradient overlay */}
       <div className="absolute inset-0 bg-taxi/70 mix-blend-multiply" />
