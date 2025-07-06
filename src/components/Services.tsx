@@ -6,7 +6,7 @@ const services = [
  
   {
     icon: Clock,
-    title: "Disponible 24/7",
+    title: "Disponibilité fléxible",
     description: "À votre service tous les jours, à toute heure. Réservez à l'avance ou appelez pour une course immédiate."
   },
   {
@@ -33,7 +33,7 @@ const services = [
 
 export const Services = () => {
   return (
-    <section id="services" className="py-16 bg-black text-white">
+    <section id="services" className="py-16 bg-darkblue text-white">
       <div className="container">
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4 text-yellow-400">Nos Services</h2>
