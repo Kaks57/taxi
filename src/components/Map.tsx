@@ -37,7 +37,7 @@ export const Map = () => {
             </div>
             <h3 className="font-semibold mb-2">Adresse</h3>
             <address className="not-italic text-gray-600">
-              45 rue Saverne<br />
+              160 rue Georges Pompidou<br />
               02100 Saint-Quentin<br />
               France
             </address>
@@ -54,7 +54,7 @@ export const Map = () => {
               06 30 16 29 25
             </a>
             <p className="text-gray-600 mt-2">
-              Disponible 24/7 pour vos réservations
+              Disponible pour vos réservations
             </p>
           </div>
           
@@ -67,7 +67,6 @@ export const Map = () => {
             <h3 className="font-semibold mb-2">Horaires</h3>
             <p className="text-gray-600">
               Lundi - Dimanche<br />
-              24h/24, 7j/7
             </p>
           </div>
         </div>
